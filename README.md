@@ -1,5 +1,5 @@
 # environment variable
-create file .env
+create file .env, add environment variable
 ```
 /** connect mogoose DB */
 MONGODB_URI
