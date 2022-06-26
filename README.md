@@ -10,7 +10,7 @@ CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 ```
 # init project
-```sh
+```properties
 npm install
 npm run dev
 ```
