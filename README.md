@@ -3,11 +3,10 @@ Api rest connect mongoose DB and server image Cloudinary
 
 # environment variable
 
-## connect mogoose DB
-- MONGODB_URI
-
-## connect Cloudinary
 ```
+/** connect mogoose DB */
+MONGODB_URI
+
 /** connect cloudinary*/
 CLOUDINARY_CLOUD_NAME
 CLOUDINARY_API_KEY
