@@ -1,7 +1,9 @@
+# Project API -IMAGE
+api upload image  to cloudinary. Connect mongoose DB
 # environment variable
 create file **.env**, add environment variable
 ```env
-/** connect mogoose DB */
+/** connect mongoose DB */
 MONGODB_URI
 
 /** connect cloudinary*/

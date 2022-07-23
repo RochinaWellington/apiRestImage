@@ -3,7 +3,7 @@ import morgan from 'morgan'
 import cors from 'cors'
 
 
-//impor ruotes
+//import routes
 import indexRoutes from './routes/index.routes.js'
 import productsRoutes from './routes/product.routes.js'
 
