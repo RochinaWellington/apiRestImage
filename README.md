@@ -1,5 +1,5 @@
 # Project API -IMAGE
-api upload image  to cloudinary. Connect mongoose DB.
+Api-rest upload image  to cloudinary. Connect mongoose DB storage product.
 # environment variable
 create file **.env**, add environment variable
 ```env
